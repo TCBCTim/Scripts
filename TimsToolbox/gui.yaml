@@ -3,9 +3,9 @@ form:
   width: 400
   height: 200
 buttons:
-  - name: "Run Script 1"
-    text: "Execute Script 1"
-    action: "https://raw.githubusercontent.com/TCBCTim/script1.ps1"
+  - name: "Run Hello World"
+    text: "Execute Hello World"
+    action: "https://github.com/TCBCTim/Scripts/raw/refs/heads/main/TimsToolbox/HelloWorld.ps1"
   - name: "Run Script 2"
     text: "Execute Script 2"
     action: "https://raw.githubusercontent.com/TCBCTim/script2.ps1"
